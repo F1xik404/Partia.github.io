@@ -17,9 +17,11 @@ if (user == 148804){
 if (user == 148805){
     document.write("Hello Kira Yednak");
     break;
+    }
 if (user == 148806){
     document.write("Hello Artem Galashevskiy");
     break;
+    } 
 if (user == 148807){
     document.write("Hello Dercash Yaroslav");
     break;

@@ -18,6 +18,9 @@ if (user == 148805){
     document.write("Hello Kira Yednak");
     break;
     }
+if (user == 148800){
+    break;
+    }
 else{
     alert("Eror");
     }

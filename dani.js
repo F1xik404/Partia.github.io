@@ -14,6 +14,10 @@ if (user == 148804){
     document.write("Hello Shum Ann");
     break;
     }
+if (user == 148805){
+    document.write("Hello Kira Yednak");
+    break;
+    }
 else{
     alert("Eror");
     }
